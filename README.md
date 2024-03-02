@@ -5,4 +5,4 @@ Since my first week of Web Dev in sem 1 of year 1 of college I thought about and
 With each different iteration, the site became better. Better design, Better coding arcitecture, Better all around.
 
 
-To see the current version of my site go to <a href="https://n-mcclure.github.io">
+To see the current version of my site go to <a href="https://n-mcclure.github.io">This Link!</a>
